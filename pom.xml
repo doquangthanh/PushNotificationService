@@ -7,7 +7,7 @@
 	<name>Producer Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<springframework.version>5.0.7.RELEASE</springframework.version>
+		<springframework.version>5.2.3.RELEASE</springframework.version>
 		<springsecurity.version>5.0.6.RELEASE</springsecurity.version>
 
 		<hibernate.version>5.3.1.Final</hibernate.version>
